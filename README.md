@@ -1,9 +1,7 @@
 ### Hi there 👋
 <br />
 I'm still learning Junior Fullstack developer form Poland 🇵🇱!
-
 <br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -25,7 +23,7 @@ I'm still learning Junior Fullstack developer form Poland 🇵🇱!
 
 ### Spotify Playing 🎧
 
-<img src="test-git-master.psmigielski.vercel.app" alt="Psmigielski Spotify Playing" width="350" />(https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+<img src="test-git-master.psmigielski.vercel.app" alt="Psmigielski Spotify Playing" width="350" />(https://open.spotify.com/user/0e2af7ac81ec410ca6114c20e6af1013 b)
 
 <br/>
 
