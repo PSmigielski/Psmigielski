@@ -30,7 +30,7 @@ I'm still learning Junior Fullstack developer form Poland 🇵🇱!
 <br/>
 
 ### Github Stats
-[![Anurag's github stats](https://github-readme-stats.psmigielski.vercel.app/api?username=psmigielski)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.psmigielski.vercel.app/api?username=PSmigielski)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **PSmigielski/Psmigielski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
