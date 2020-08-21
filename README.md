@@ -23,12 +23,12 @@ I'm still learning Junior Fullstack developer form Poland 🇵🇱!
 
 ### Spotify Playing 🎧
 
-[<img src="https://test.psmigielski.vercel.app/api/spotify-playing" alt="Psmigielski Spotify now playing" width="350" />](https://open.spotify.com/user/0e2af7ac81ec410ca6114c20e6af1013)
+[<img src="https://test.psmigielski.vercel.app/api/spotify-playing" alt="Psmigielski Spotify now playing" width="350" />](https://open.spotify.com/user/21o6ejlkddfub2kiqssxsnlji)
 
 <br/>
 
 ### Github Stats
-[![Anurag's github stats](https://github-readme-stats.psmigielski.vercel.app/api?username=PSmigielski)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.psmigielski.vercel.app/api?username=psmigielski)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **PSmigielski/Psmigielski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
