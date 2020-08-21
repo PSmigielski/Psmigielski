@@ -23,7 +23,7 @@ I'm still learning Junior Fullstack developer form Poland 🇵🇱!
 
 ### Spotify Playing 🎧
 
-[<img src="https://test.psmigielski.vercel.app" alt="Psmigielski Spotify now playing" width="350" />](https://open.spotify.com/user/0e2af7ac81ec410ca6114c20e6af1013)
+[<img src="https://test.psmigielski.vercel.app/api/spotify-playing" alt="Psmigielski Spotify now playing" width="350" />](https://open.spotify.com/user/0e2af7ac81ec410ca6114c20e6af1013)
 
 <br/>
 
