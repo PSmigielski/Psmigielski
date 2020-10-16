@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br />
-I'm creative Junior Fullstack developer form Poland 🇵🇱!
+I'm creative Junior Fullstack developer from Poland 🇵🇱!
 <br />
 
 ### Languages and Tools:
