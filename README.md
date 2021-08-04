@@ -34,7 +34,7 @@ I'm creative Junior Fullstack developer from Poland 🇵🇱!
 
 ### Spotify Playing 🎧
 
-[<img src="https://test-git-master.psmigielski.vercel.app/api/spotify-playing" alt="Psmigielski Spotify now playing" width="350" />](https://open.spotify.com/user/21o6ejlkddfub2kiqssxsnlji)
+[<img src="https://test-git-master.psmigielski.vercel.app/api/spotify" alt="Psmigielski Spotify now playing" width="350" />](https://open.spotify.com/user/21o6ejlkddfub2kiqssxsnlji)
 <br/>
 
 ### Github Stats
