@@ -39,7 +39,7 @@ I'm creative Junior Fullstack developer from Poland 🇵🇱!
 
 ### Github Stats
 
-[![Anurag's github stats](https://github-readme-stats.psmigielski.vercel.app/api?username=PSmigielski)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.psmigielski.vercel.app/api?username=PSmigielski&show_icons=true&theme==dark)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.psmigielski.vercel.app/api/top-langs/?username=PSmigielski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://hit.yhype.me/github/profile?user_id=57463940)
