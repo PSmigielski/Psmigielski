@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **walek.smigielski@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pawe%C5%82-%C5%9Bmigielski-a86214212/](https://www.linkedin.com/in/pawe%C5%82-%C5%9Bmigielski-a86214212/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
