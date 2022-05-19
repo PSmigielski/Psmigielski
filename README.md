@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paweł Śmigielski</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on [Daily routine](https://github.com/PSmigielski/daily-routine)
+- 🔭 I’m currently working on [Testicious](https://github.com/PSmigielski/testicious)
 
 - 🌱 I’m currently learning **Mercure and websockets**
 
