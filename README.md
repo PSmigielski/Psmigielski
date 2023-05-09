@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [Daily Routine](https://github.com/PSmigielski/daily-routine)
 
-- 🌱 I’m currently learning **Mercure and websockets**
+- 🌱 I’m currently learning **gRPC and microservices**
+
+- 🎓 I'm currently studying bioinformatics
 
 - 📫 How to reach me **walek.smigielski@gmail.com**
 
