@@ -24,11 +24,6 @@
 [<img src="https://test-git-master.psmigielski.vercel.app/api/spotify" alt="Psmigielski Spotify now playing" width="350" />](https://open.spotify.com/user/21o6ejlkddfub2kiqssxsnlji)
 <br/> -->
 
-### Github Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psmigielski&show_icons=true&theme=dark&locale=en&layout=compact" alt="psmigielski" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psmigielski&show_icons=true&theme=dark&locale=en" alt="psmigielski" /></p>
-
 <!--
 **PSmigielski/Psmigielski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
